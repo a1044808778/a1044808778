@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##############################################################################
 # Content
 ##############################################################################
@@ -5,7 +6,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/probberechts
+projects_url: http://github.com/a1044808778
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -154,3 +155,6 @@ baidu_analytics:
 # logo and/or favicons of you website.
 gravatar:
   email: name@email.com
+=======
+theme: jekyll-theme-modernist
+>>>>>>> 822a4184a610c8dc8bfd363047c6a32f47adfb2e
